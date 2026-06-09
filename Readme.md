@@ -60,3 +60,7 @@ jupyter lab
 ```
 
 ### Step 5 — Open and run:
+
+git remote add github https://github.com/seitenovagulnara-code/kaggle-titanic.git
+
+git push github main
