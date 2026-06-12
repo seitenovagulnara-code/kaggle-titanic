@@ -34,8 +34,8 @@ Key insights:
   - n_estimators: 300
 
 ## Results
-- CV Score (GridSearchCV): 82.6%
-- Kaggle Leaderboard Score: TBD
+- CV Score (GridSearchCV): 86.0%
+- Kaggle Leaderboard Score: 80.4%
 
 ## How to Run
 
